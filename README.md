@@ -17,6 +17,8 @@ function:![image](https://github.com/user-attachments/assets/6f873a30-136e-4a5b-
 Reconsider assignments:
 Assignment
 3.1.1/3.1.2-This was our first assignment and we learned how to the basics specifcly data types, which are incorparated all through my program, data types include: strings, booleans, variables, floats, inteagers.
+![image](https://github.com/user-attachments/assets/155cbbe4-0743-494c-a459-d65a428f23b1) this chunk of code includes mutilple exmaples.
+
 Assignment
 Challenge 311312- The main point of this is incorparted in this code ![image](https://github.com/user-attachments/assets/a89e851d-b635-4739-b392-1655422ff32a)
 ![image](https://github.com/user-attachments/assets/4b1d9238-ccbd-4472-b484-9d4dae0b884a) We were supposed to convert a string data type and restrict a blank input 
