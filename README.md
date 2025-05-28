@@ -7,5 +7,20 @@ https://sites.google.com/d/1kZul1pvk8h27hYFd-GiX5bZNzWjdJIYB/p/1GnSeWhU620pZoURu
 
 Three code samples:
 
-List:
+List:![image](https://github.com/user-attachments/assets/11a47f04-1b35-49f2-8487-e3bfc15938ae)
+
+Loop:![image](https://github.com/user-attachments/assets/4d744746-5e03-4f35-a2c6-85f8ea5f8937)
+
+function:![image](https://github.com/user-attachments/assets/6f873a30-136e-4a5b-86c9-92bf7065cbef)
+
+
+Reconsider assignments:
+Assignment
+3.1.1/3.1.2-This was our first assignment and we learned how to the basics specifcly data types, which are incorparated all through my program, data types include: strings, booleans, variables, floats, inteagers.
+Assignment
+Challenge 311312- The main point of this is incorparted in this code ![image](https://github.com/user-attachments/assets/a89e851d-b635-4739-b392-1655422ff32a)
+![image](https://github.com/user-attachments/assets/4b1d9238-ccbd-4472-b484-9d4dae0b884a)
+
+
+
 
